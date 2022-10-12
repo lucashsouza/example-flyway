@@ -1,0 +1,4 @@
+CREATE TABLE user (
+    ID int NOT NULL,
+    NOME VARCHAR(255) NOT NULL
+);
