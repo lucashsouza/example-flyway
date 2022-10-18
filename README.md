@@ -4,8 +4,9 @@ Um projeto simples que implementa na prática o Flyway para gerenciar as migraç
 ## Tecnologias
 <div style="display: inline_block">
     <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-    <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
     <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+    <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+    <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
     <img align="center" height="30" width="40" src="https://github.com/simple-icons/simple-icons/blob/master/icons/flyway.svg">
 </div>
 
